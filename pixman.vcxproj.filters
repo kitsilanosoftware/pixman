@@ -9,117 +9,117 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\..\..\EAWebKitSupportPackages\pixman\local\include\pixman.h">
+    <ClInclude Include="include\pixman.h">
       <Filter>include</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\EAWebKitSupportPackages\pixman\local\include\pixman-accessor.h">
+    <ClInclude Include="include\pixman-accessor.h">
       <Filter>include</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\EAWebKitSupportPackages\pixman\local\include\pixman-arm-common.h">
+    <ClInclude Include="include\pixman-arm-common.h">
       <Filter>include</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\EAWebKitSupportPackages\pixman\local\include\pixman-arm-neon-asm.h">
+    <ClInclude Include="include\pixman-arm-neon-asm.h">
       <Filter>include</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\EAWebKitSupportPackages\pixman\local\include\pixman-combine32.h">
+    <ClInclude Include="include\pixman-combine32.h">
       <Filter>include</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\EAWebKitSupportPackages\pixman\local\include\pixman-combine64.h">
+    <ClInclude Include="include\pixman-combine64.h">
       <Filter>include</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\EAWebKitSupportPackages\pixman\local\include\pixman-compiler.h">
+    <ClInclude Include="include\pixman-compiler.h">
       <Filter>include</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\EAWebKitSupportPackages\pixman\local\include\pixman-edge-imp.h">
+    <ClInclude Include="include\pixman-edge-imp.h">
       <Filter>include</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\EAWebKitSupportPackages\pixman\local\include\pixman-fast-path.h">
+    <ClInclude Include="include\pixman-fast-path.h">
       <Filter>include</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\EAWebKitSupportPackages\pixman\local\include\pixman-malloc.h">
+    <ClInclude Include="include\pixman-malloc.h">
       <Filter>include</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\EAWebKitSupportPackages\pixman\local\include\pixman-private.h">
+    <ClInclude Include="include\pixman-private.h">
       <Filter>include</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\EAWebKitSupportPackages\pixman\local\include\pixman-version.h">
+    <ClInclude Include="include\pixman-version.h">
       <Filter>include</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\EAWebKitSupportPackages\pixman\local\source\pixman.c">
+    <ClCompile Include="source\pixman.c">
       <Filter>source</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\EAWebKitSupportPackages\pixman\local\source\pixman-access.c">
+    <ClCompile Include="source\pixman-access.c">
       <Filter>source</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\EAWebKitSupportPackages\pixman\local\source\pixman-access-accessors.c">
+    <ClCompile Include="source\pixman-access-accessors.c">
       <Filter>source</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\EAWebKitSupportPackages\pixman\local\source\pixman-bits-image.c">
+    <ClCompile Include="source\pixman-bits-image.c">
       <Filter>source</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\EAWebKitSupportPackages\pixman\local\source\pixman-combine32.c">
+    <ClCompile Include="source\pixman-combine32.c">
       <Filter>source</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\EAWebKitSupportPackages\pixman\local\source\pixman-combine64.c">
+    <ClCompile Include="source\pixman-combine64.c">
       <Filter>source</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\EAWebKitSupportPackages\pixman\local\source\pixman-conical-gradient.c">
+    <ClCompile Include="source\pixman-conical-gradient.c">
       <Filter>source</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\EAWebKitSupportPackages\pixman\local\source\pixman-cpu.c">
+    <ClCompile Include="source\pixman-cpu.c">
       <Filter>source</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\EAWebKitSupportPackages\pixman\local\source\pixman-edge.c">
+    <ClCompile Include="source\pixman-edge.c">
       <Filter>source</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\EAWebKitSupportPackages\pixman\local\source\pixman-edge-accessors.c">
+    <ClCompile Include="source\pixman-edge-accessors.c">
       <Filter>source</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\EAWebKitSupportPackages\pixman\local\source\pixman-fast-path.c">
+    <ClCompile Include="source\pixman-fast-path.c">
       <Filter>source</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\EAWebKitSupportPackages\pixman\local\source\pixman-general.c">
+    <ClCompile Include="source\pixman-general.c">
       <Filter>source</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\EAWebKitSupportPackages\pixman\local\source\pixman-gradient-walker.c">
+    <ClCompile Include="source\pixman-gradient-walker.c">
       <Filter>source</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\EAWebKitSupportPackages\pixman\local\source\pixman-image.c">
+    <ClCompile Include="source\pixman-image.c">
       <Filter>source</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\EAWebKitSupportPackages\pixman\local\source\pixman-implementation.c">
+    <ClCompile Include="source\pixman-implementation.c">
       <Filter>source</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\EAWebKitSupportPackages\pixman\local\source\pixman-linear-gradient.c">
+    <ClCompile Include="source\pixman-linear-gradient.c">
       <Filter>source</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\EAWebKitSupportPackages\pixman\local\source\pixman-matrix.c">
+    <ClCompile Include="source\pixman-matrix.c">
       <Filter>source</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\EAWebKitSupportPackages\pixman\local\source\pixman-radial-gradient.c">
+    <ClCompile Include="source\pixman-radial-gradient.c">
       <Filter>source</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\EAWebKitSupportPackages\pixman\local\source\pixman-region16.c">
+    <ClCompile Include="source\pixman-region16.c">
       <Filter>source</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\EAWebKitSupportPackages\pixman\local\source\pixman-region32.c">
+    <ClCompile Include="source\pixman-region32.c">
       <Filter>source</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\EAWebKitSupportPackages\pixman\local\source\pixman-solid-fill.c">
+    <ClCompile Include="source\pixman-solid-fill.c">
       <Filter>source</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\EAWebKitSupportPackages\pixman\local\source\pixman-sse2.c">
+    <ClCompile Include="source\pixman-sse2.c">
       <Filter>source</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\EAWebKitSupportPackages\pixman\local\source\pixman-timer.c">
+    <ClCompile Include="source\pixman-timer.c">
       <Filter>source</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\EAWebKitSupportPackages\pixman\local\source\pixman-trap.c">
+    <ClCompile Include="source\pixman-trap.c">
       <Filter>source</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\EAWebKitSupportPackages\pixman\local\source\pixman-utils.c">
+    <ClCompile Include="source\pixman-utils.c">
       <Filter>source</Filter>
     </ClCompile>
   </ItemGroup>
